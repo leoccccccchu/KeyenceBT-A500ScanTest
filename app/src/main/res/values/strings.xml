@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AT500-Leo Test</string>
+    <string name="block_scan">Lock Scanner</string>
+    <string name="barcode">barcode 1</string>
+    <string name="code_type">code type 1</string>
+    <string name="unlock_scan">Unlock Scanner</string>
+    <string name="_2_scan">Scan 2 barcode at once</string>
+    <string name="barcode_2">barcode 2</string>
+    <string name="code_type_2">code type 2</string>
+    <string name="_2">2:</string>
+    <string name="_1">1:</string>
+</resources>
